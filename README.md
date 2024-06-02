@@ -1,4 +1,4 @@
-# Прогнозирование ключевой ставки ЦБ РФ примоделями Prophet и NeuralProphet.
+# Прогнозирование ключевой ставки ЦБ РФ моделями Prophet и NeuralProphet.
 [![Python - Version](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Prophet - Version](https://img.shields.io/badge/Prophet-1.1.5-red?style=for-the-badge&logo=prophet)](https://facebook.github.io/prophet/)
 [![NeuralProphet - Version](https://img.shields.io/badge/NeuralProphet-0.8.0-red?style=for-the-badge&logo=neuralprophet)](https://neuralprophet.com/)
